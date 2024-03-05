@@ -111,31 +111,31 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 
-To read head of the file
+### To read head of the file
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/02612c30-75e9-423e-b597-f2c1304fe747)
 
-To read tail of the file
+### To read tail of the file
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/a67565c6-fd64-46d4-b365-9def987ae9c7)
 
-Compare Dataset
+### Compare Dataset
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/86b800f7-5b6f-46b6-b6ca-df1b8816cc48)
 
-Predicted Value
+### Predicted Value
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/dccb3548-7ef9-497c-a31a-956831b10c3b)
 
-Graph for Training Dataset
+### Graph for Training Dataset
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/40a86ad4-0d31-4b53-adb5-e6792ffafb43)
 
-Graph for testing Dataset
+### Graph for testing Dataset
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/f365668d-d69d-4c67-8221-0eb52cf944d4)
 
-Error
+### Error
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/29786026-97ca-48ee-a459-a73ca17fc321)
 
