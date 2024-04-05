@@ -18,7 +18,8 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: AMALJOSH MAADHAV J
 RegisterNumber: 212223230012
-
+```
+```
 import pandas as pd
 import numpy as np
 from sklearn.metrics import mean_absolute_error,mean_squared_error
@@ -55,7 +56,8 @@ plt.title("Hours vs Scores(Training set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-
+```
+```
 mse=mean_absolute_error(y_test,y_pred)
 print('Mean Square Error = ',mse)
 mae=mean_absolute_error(y_test,y_pred)
