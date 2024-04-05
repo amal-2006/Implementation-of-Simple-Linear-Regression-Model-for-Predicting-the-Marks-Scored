@@ -50,7 +50,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 
-plt.scatter(x_train,y_train,color='purple')
+plt.scatter(x_test,y_test,color='red')
 plt.plot(x_train,reg.predict(x_train),color='black')
 plt.title("Hours vs Scores(Training set)")
 plt.xlabel("Hours")
