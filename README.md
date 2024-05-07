@@ -60,8 +60,7 @@ plt.title("Hours vs Scores(Training set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-```
-```
+
 mse=mean_absolute_error(y_test,y_pred)
 print('Mean Square Error = ',mse)
 mae=mean_absolute_error(y_test,y_pred)
