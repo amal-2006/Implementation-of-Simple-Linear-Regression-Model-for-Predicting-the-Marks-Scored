@@ -94,6 +94,9 @@ print("Root Mean Square Error = ",rmse)
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/f365668d-d69d-4c67-8221-0eb52cf944d4)
 
+
+
+
 ### Error
 
 ![image](https://github.com/amal-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/148410730/29786026-97ca-48ee-a459-a73ca17fc321)
